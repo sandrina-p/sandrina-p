@@ -1,6 +1,6 @@
 ### Hi, it's Sandrina
 
-I'm a Staff Frontend Engineer who helps to turn ideas into accessible experiences.
+I'm a Staff Frontend Engineer turning ideas into accessible experiences.
 
 I'm into React, Design Systems and Accessibility.
 
